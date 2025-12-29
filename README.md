@@ -29,5 +29,3 @@ This project demonstrates how AWS Auto Scaling dynamically manages EC2 instances
 ## Technologies
 AWS EC2, Auto Scaling, Application Load Balancer, Nginx, Security Groups
 
-## Repository Link
-🔗 https://github.com/yourusername/aws-auto-scaling-demo
